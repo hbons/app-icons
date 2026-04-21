@@ -40,6 +40,13 @@
   color: '#055D85'
   url: https://planetpeanut.studio/auroras
 
+- id: studio.planetpeanut.Untitled.Health
+  name: Health
+  date: 2026-03-01
+  color: '#6A0D49'
+  url: https://planetpeanut.studio
+  unused: true
+
 - id: studio.planetpeanut.Untitled.GameBoy
   name: Game Boy
   date: 2026-01-01
