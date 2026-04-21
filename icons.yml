@@ -1,6 +1,5 @@
 - id: net.trowell.kotoba
   name: Kotoba
-  summary: Japanese dictionary that works offline
   date: 2026-04-19
   color: '#5A1744'
   url: https://gitlab.gnome.org/haydn/kotoba
@@ -17,8 +16,20 @@
   color: '#4E0068'
   url: https://pidgin.im
 
+- id: im.pidgin.Pidgin3
+  name: Gaim
+  date: 2026-02-01
+  color: '#002E67'
+  url: https://gaim.imfreedom.org
+
 - id: studio.planetpeanut.Auroras
   name: Auroras
   date: 2026-01-01
   color: '#055D85'
   url: https://planetpeanut.studio/auroras
+
+- id: org.aseprite.Aseprite
+  name: Aseprite
+  date: 2026-01-01
+  color: '#7F0C57'
+  url: https://aseprite/org
