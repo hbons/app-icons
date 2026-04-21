@@ -22,6 +22,12 @@
   color: '#002E67'
   url: https://gaim.imfreedom.org
 
+- id: studio.planetpeanut.Bobby
+  name: Bobby
+  date: 2026-01-01
+  color: '#084B82'
+  url: https://planetpeanut.studio/bobby
+
 - id: studio.planetpeanut.Auroras
   name: Auroras
   date: 2026-01-01
