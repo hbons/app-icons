@@ -1,0 +1,22 @@
+<svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
+<path d="M20 16C20 11.5817 23.5817 8 28 8H100C104.418 8 108 11.5817 108 16V96C108 109.255 97.2548 120 84 120H28C23.5817 120 20 116.418 20 112V16Z" fill="#C0BFBC"/>
+<path d="M20 24C20 15.1634 27.1634 8 36 8H92C100.837 8 108 15.1634 108 24V96C108 109.255 97.2548 120 84 120H28C23.5817 120 20 116.418 20 112V24Z" fill="url(#paint0_linear_1_22)"/>
+<path d="M20 16C20 11.5817 23.5817 8 28 8H100C104.418 8 108 11.5817 108 16V88C108 101.255 97.2548 112 84 112H28C23.5817 112 20 108.418 20 104V16Z" fill="#DEDDDA"/>
+<path d="M30 22C30 19.7909 31.7909 18 34 18H94C96.2091 18 98 19.7909 98 22V60C98 66.6274 92.6274 72 86 72H34C31.7909 72 30 70.2091 30 68V22Z" fill="#3D3846"/>
+<path d="M41 26C41 24.8954 41.8954 24 43 24H85C86.1046 24 87 24.8954 87 26V64C87 65.1046 86.1046 66 85 66H43C41.8954 66 41 65.1046 41 64V26Z" fill="#33D17A"/>
+<circle cx="35" cy="37" r="2" fill="#F66151"/>
+<circle cx="76" cy="93" r="6" fill="#C061CB"/>
+<circle cx="90" cy="86" r="6" fill="#C061CB"/>
+<rect x="40" y="81" width="7" height="19" rx="2" fill="#241F31"/>
+<rect x="53" y="87" width="7" height="19" rx="2" transform="rotate(90 53 87)" fill="#241F31"/>
+<defs>
+<linearGradient id="paint0_linear_1_22" x1="20" y1="63.9999" x2="108" y2="63.9999" gradientUnits="userSpaceOnUse">
+<stop stop-color="#C0BFBC"/>
+<stop offset="0.0577948" stop-color="#E4E3E2"/>
+<stop offset="0.116223" stop-color="#C0BFBC"/>
+<stop offset="0.7" stop-color="#C0BFBC"/>
+<stop offset="0.9" stop-color="#E4E3E2"/>
+<stop offset="1" stop-color="#C0BFBC"/>
+</linearGradient>
+</defs>
+</svg>

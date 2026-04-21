@@ -28,8 +28,23 @@
   color: '#055D85'
   url: https://planetpeanut.studio/auroras
 
+- id: studio.planetpeanut.Untitled.GameBoy
+  name: Game Boy
+  date: 2026-01-01
+  color: '#3D3846'
+  url: https://planetpeanut.studio
+  unused: true
+
+- id: studio.planetpeanut.Untitled.Colours
+  name: Colours
+  date: 2026-01-01
+  color: '#502727'
+  url: https://planetpeanut.studio
+  unused: true
+
 - id: org.aseprite.Aseprite
   name: Aseprite
   date: 2026-01-01
   color: '#7F0C57'
   url: https://aseprite/org
+  unofficial: true
