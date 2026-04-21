@@ -6,9 +6,15 @@
 
 - id: studio.planetpeanut.SparkleShare
   name: SparkleShare
-  date: 2026-04-10
+  date: 2026-04-08
   color: '#12868F'
   url: https://planetpeanut.studio/auroras
+
+- id: dev.bitritter.BitRitter
+  name: BitRitter
+  date: 2026-04-01
+  color: '#1A5FB4'
+  url: https://gitlab.gnome.org/haydn/kotoba
 
 - id: im.pidgin.Pidgin3
   name: Pidgin
