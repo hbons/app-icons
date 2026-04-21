@@ -8,62 +8,59 @@
   name: SparkleShare
   date: 2026-04-08
   color: '#12868F'
-  url: https://planetpeanut.studio/auroras
+  url: https://sparkleshare.org
 
 - id: dev.bitritter.BitRitter
   name: BitRitter
   date: 2026-04-01
   color: '#1A5FB4'
-  url: https://gitlab.gnome.org/haydn/kotoba
+  url: https://codeberg.org/Chfkch/bitritter
 
-- id: im.pidgin.Pidgin3
-  name: Pidgin
-  date: 2026-01-01
-  color: '#4E0068'
-  url: https://pidgin.im
+- id: studio.planetpeanut.Untitled.Health
+  name: Health
+  date: 2026-02-24
+  color: '#6A0D49'
+  unused: true
 
 - id: org.imfreedom.Gaim3
   name: Gaim
-  date: 2026-02-01
+  date: 2026-02-03
   color: '#002E67'
   url: https://gaim.imfreedom.org
 
 - id: studio.planetpeanut.Bobby
   name: Bobby
-  date: 2026-01-01
+  date: 2026-01-06
   color: '#084B82'
   url: https://planetpeanut.studio/bobby
 
 - id: studio.planetpeanut.Auroras
   name: Auroras
-  date: 2026-01-01
+  date: 2026-01-05
   color: '#055D85'
   url: https://planetpeanut.studio/auroras
 
-- id: studio.planetpeanut.Untitled.Health
-  name: Health
-  date: 2026-03-01
-  color: '#6A0D49'
-  url: https://planetpeanut.studio
-  unused: true
+- id: org.aseprite.Aseprite
+  name: Aseprite
+  date: 2026-01-04
+  color: '#7F0C57'
+  url: https://aseprite/org
+  unofficial: true
+
+- id: im.pidgin.Pidgin3
+  name: Pidgin
+  date: 2026-01-03
+  color: '#4E0068'
+  url: https://pidgin.im
 
 - id: studio.planetpeanut.Untitled.GameBoy
   name: Game Boy
-  date: 2026-01-01
+  date: 2026-01-02
   color: '#3D3846'
-  url: https://planetpeanut.studio
   unused: true
 
 - id: studio.planetpeanut.Untitled.Colours
   name: Colours
   date: 2026-01-01
   color: '#502727'
-  url: https://planetpeanut.studio
   unused: true
-
-- id: org.aseprite.Aseprite
-  name: Aseprite
-  date: 2026-01-01
-  color: '#7F0C57'
-  url: https://aseprite/org
-  unofficial: true
