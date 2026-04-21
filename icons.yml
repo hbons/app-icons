@@ -16,7 +16,7 @@
   color: '#4E0068'
   url: https://pidgin.im
 
-- id: im.pidgin.Pidgin3
+- id: org.imfreedom.Gaim3
   name: Gaim
   date: 2026-02-01
   color: '#002E67'
