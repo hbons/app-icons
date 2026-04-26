@@ -1,3 +1,8 @@
+- id: de.wwwtech.gitte
+  name: Gitte
+  date: 2026-04-26
+  color: '#75431A'
+
 - id: net.trowell.kotoba
   name: Kotoba
   date: 2026-04-19
