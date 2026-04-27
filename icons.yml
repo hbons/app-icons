@@ -57,6 +57,13 @@
   color: '#4E0068'
   url: https://pidgin.im
 
+- id: org.blender.Blender
+  name: Blender
+  date: 2026-01-01
+  color: '#1E3975'
+  url: https://blender.org
+  unofficial: true
+
 - id: studio.planetpeanut.Untitled.GameBoy
   name: Game Boy
   date: 2026-01-02
