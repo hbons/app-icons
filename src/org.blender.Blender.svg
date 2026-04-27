@@ -1,8 +1,8 @@
 <svg width="128" height="128" viewBox="0 0 128 128" fill="none" xmlns="http://www.w3.org/2000/svg">
-<path d="M82 36H16" stroke="#EA7600" stroke-width="16" stroke-linecap="round"/>
+<path d="M101.5 48L66 12" stroke="#EA7600" stroke-width="16" stroke-linecap="round"/>
+<path d="M72 36H16" stroke="#EA7600" stroke-width="16" stroke-linecap="round"/>
 <circle cx="74" cy="78" r="46" fill="url(#paint0_linear_1_3)"/>
 <circle opacity="0.3" cx="16" cy="36" r="8" fill="#9B3601"/>
-<path d="M91.3431 48.6569L97 54.3137L108.314 43L102.657 37.3431L97 43L91.3431 48.6569ZM71.6569 6.34315C68.5327 3.21895 63.4673 3.21895 60.3431 6.34315C57.219 9.46734 57.219 14.5327 60.3431 17.6569L66 12L71.6569 6.34315ZM97 43L102.657 37.3431L71.6569 6.34315L66 12L60.3431 17.6569L91.3431 48.6569L97 43Z" fill="#EA7600"/>
 <path d="M58 36L11 83" stroke="#EA7600" stroke-width="16" stroke-linecap="round"/>
 <circle opacity="0.3" cx="11" cy="83" r="8" fill="#9B3601"/>
 <circle opacity="0.3" cx="66" cy="12" r="8" fill="#9B3601"/>
