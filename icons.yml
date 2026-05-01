@@ -1,3 +1,8 @@
+- id: nexus.federated.Nexus
+  name: Nexus
+  date: 2026-05-01
+  color: '#253D52'
+
 - id: de.wwwtech.gitte
   name: Gitte
   date: 2026-04-26
