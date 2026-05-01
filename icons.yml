@@ -2,6 +2,7 @@
   name: Nexus
   date: 2026-05-01
   color: '#253D52'
+  url: https://git.federated.nexus/Nexus/nexus
 
 - id: de.wwwtech.gitte
   name: Gitte
